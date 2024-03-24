@@ -25,7 +25,8 @@
                 "<all_urls>"
             ],
             "resources": [
-                "main.js"
+                "main.js",
+                "chat.json"
             ]
         }
     ]
